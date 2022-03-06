@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "syscall.h": "c",
+        "functional": "cpp",
+        "memory_resource": "cpp",
+        "*.tcc": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "string_view": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
